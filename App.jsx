@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "/Home.jsx";
-import Projects from "/Projects.jsx";
-import Resume from "/Resume.jsx";
+import Home from "./paginas/Home.jsx";
+import Projects from "./paginas/Projects.jsx";
+import Resume from "./paginas/Resume.jsx";
 
 const App = () => {
     return (
